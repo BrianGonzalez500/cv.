@@ -1,0 +1,5 @@
+﻿
+Partial Class Hobbies
+    Inherits System.Web.UI.Page
+
+End Class
